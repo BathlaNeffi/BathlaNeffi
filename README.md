@@ -22,7 +22,11 @@
 
 >---
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bathlaneffi&theme=neon&border=7F3FBF&background=0D1117" alt="current streak"/></p>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bathlaneffi&theme=elegant&mode=weekly" alt="GitHub Streak" /></a>
+</p>
+
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bathlaneffi&theme=radical" /></p>
 
